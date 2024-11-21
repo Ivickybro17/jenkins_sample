@@ -1,5 +1,5 @@
 class HelloWorld{
   public static void main(String [] args){
-    system.out.println("Fuck Vicky");
+    System.Out.println("Fuck Vicky");
   }
 }
